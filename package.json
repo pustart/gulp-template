@@ -39,7 +39,7 @@
     "postcss-import": "^14.0.2",
     "postcss-media-minmax": "^5.0.0",
     "sass": "^1.43.4",
-    "webp-converter": "^2.2.3"
+    "webp-converter": "2.2.3"
   },
   "overrides": {
     "lodash.template": "^4.5.0"
